@@ -99,3 +99,6 @@ celerybeat-schedule
 .DS_Store
 
 *.retry
+
+# VSCode workspace settings
+.vscode/*
